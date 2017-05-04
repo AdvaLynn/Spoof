@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1449100749 source:c:\users\adva\documents\adva gr.12\computer science\c++ programs\vectors\adva masliah- spoof revised.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<string>
+
